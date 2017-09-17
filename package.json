@@ -1,0 +1,25 @@
+{
+  "name": "generator-mobx",
+  "version": "1.0.0",
+  "description": "Yeoman generator for creating projects with mobx",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucamezzalira/generator-mobx.git"
+  },
+  "author": "luca mezzalira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lucamezzalira/generator-mobx/issues"
+  },
+  "files": [
+    "app"
+  ],
+  "homepage": "https://github.com/lucamezzalira/generator-mobx#readme",
+  "dependencies": {
+    "yeoman-generator": "^1.1.1"
+  }
+}
